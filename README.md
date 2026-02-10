@@ -12,13 +12,13 @@ A WhatsApp Bot by NORA PROJECT, built with **Baileys** and **Node.js**.
 ---
 
 ## 🚀 Installation
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 ```bash
 git clone https://github.com/blubryaaa/V1CODEZERO
 cd V1CODEZERO
 ```
 
-### 2️⃣ Automatic Installation (Recommended)
+2️⃣ Automatic Installation (Recommended)
 ```bash
 bash install.sh
 ```
@@ -340,5 +340,6 @@ Built with ❤️ by NORA PROJECT
 
 
 See ya!~ 👋🏻
+
 
 
