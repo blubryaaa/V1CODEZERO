@@ -60,9 +60,9 @@ yarn start
 
 ## ▶️ Running the Bot
 ```bash
-npm start
+node zerotwo.js
 # or
-yarn start
+npm start
 ```
 
 Scan the QR Code or use Pairing Code, and the bot is ready to use.
@@ -178,7 +178,7 @@ cp .env.example .env
 # Edit .env
 ```
 
-Settings.js:
+settings.js:
 ```javascript
 require('dotenv').config()
 
@@ -342,3 +342,4 @@ Built with ❤️ by N∅RA PROJECT
 
 
 See ya!~ 👋🏻
+
