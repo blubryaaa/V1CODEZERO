@@ -1,6 +1,6 @@
-# ♦️ ZERO TWO V1
+# ZERO TWO V1
 
-A WhatsApp Bot by N∅RA PROJECT, built with **Baileys** and **Node.js**.
+A WhatsApp Bot by NORA PROJECT, built with **Baileys** and **Node.js**.
 
 ---
 
@@ -42,7 +42,7 @@ git clone https://github.com/blubryaaa/V1CODEZERO
 cd V1CODEZERO
 npm install
 ```
-[ RECOMMENDED INSTALL ON TERMUX ]
+RECOMMENDED INSTALL ON TERMUX
 ```bash
 pkg install yarn
 yarn
@@ -196,11 +196,9 @@ global.namaBot = process.env.BOT_NAME
 Look for the **[switch (command)](https://github.com/blubryaaa/V1CODEZERO/blob/61052a01ea8e8975a99f0db7f5d40bad5ee39a5b/nora.js#L742)** section.
 
 **Where to Add New Features**
-
 Add or edit commands inside the switch (command)
 
 **Example: Adding a New Command**
-
 ```js
 case 'ping': {
   m.reply('pong 🏓')
@@ -328,7 +326,7 @@ git add .env.example  # Just example for commit
 
 ## 💫 Contributor
 
-Built with ❤️ by N∅RA PROJECT
+Built with ❤️ by NORA PROJECT
 
 - **@akyra.jpg**   :   Project Lead / Core Developer / Designer
 - **@22vyn**       :   Code Maintainer / Refactor Engineer
@@ -342,4 +340,5 @@ Built with ❤️ by N∅RA PROJECT
 
 
 See ya!~ 👋🏻
+
 
