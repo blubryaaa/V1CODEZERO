@@ -73,11 +73,11 @@ Scan the QR Code or use Pairing Code, and the bot is ready to use.
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for guide:
 
-- 🐦 **Pterodactyl Panel** (Server Hosting)
-- ☁️ **Railway.app** (Cloud)
-- 🎯 **Render.com** (Free Tier)
-- 🖥️ **VPS** (DigitalOcean, Linode, Hetzner, AWS)
-- 🐳 **Docker** (Advanced)
+- 🐦 **Pterodactyl**
+- ☁️ **Railway.app**
+- 🎯 **Render.com**
+- 🖥️ **VPS**
+- 🐳 **Docker**
 
 ---
 
@@ -340,6 +340,7 @@ Built with ❤️ by NORA PROJECT
 
 
 See ya!~ 👋🏻
+
 
 
 
