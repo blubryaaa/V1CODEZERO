@@ -1,5 +1,4 @@
-<div align="center"> <p> <img align="center" src="[https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUya3Y1cnI4czk5Y3Z2aTgxamZpZDA3aTdncGFqbHZseTk2Y2JvNXVmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rx6dPRp8SAX3Rm7avu/giphy.gif](https://usagif.com/wp-content/uploads/gify/zero-two-26.gif)"> </p> </div>
-
+<div align="center"> <p> <img align="center" alt="count" src="https://usagif.com/wp-content/uploads/gify/zero-two-26.gif"> </p> </div> 
 
 # ZERO TWO V1
 
@@ -343,6 +342,7 @@ Built with ❤️ by NORA PROJECT
 
 
 See ya!~ 👋🏻
+
 
 
 
