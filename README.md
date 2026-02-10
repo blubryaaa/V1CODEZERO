@@ -322,7 +322,7 @@ git add .env.example  # Just example for commit
 
 ---
 
-##📜 License: [MIT](https://choosealicense.com/licenses/mit/)
+## 📜 License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
@@ -339,5 +339,6 @@ Built with ❤️ by N∅RA PROJECT
 ---
 
 ## ⭐ If you like this project, please star it! :D
+
 
 See ya!~ 👋🏻
