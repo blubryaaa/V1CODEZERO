@@ -2,7 +2,7 @@
 
 </div> <h2 align="center">ZERO TWO V1</h2>
 
-A WhatsApp Bot by NORA PROJECT, built with **Baileys** and **Node.js**.
+<div align="center"> A WhatsApp Bot by NORA PROJECT, built with Baileys and Node.js. </div>
 
 ---
 
@@ -342,6 +342,7 @@ Built with ❤️ by NORA PROJECT
 
 
 See ya!~ 👋🏻
+
 
 
 
