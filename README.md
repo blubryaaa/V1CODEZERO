@@ -1,6 +1,6 @@
 <div align="center"> <p> <img align="center" alt="count" src="https://usagif.com/wp-content/uploads/gify/zero-two-26.gif"> </p> </div> 
 
-</div> <h2 align="center">ZERO TWO V1</h2>
+</div> <h2 align="center">ZERO TWO V1 [ON PROGRESS]</h2>
 
 <div align="center"> A WhatsApp Bot by NORA PROJECT, built with Baileys and Node.js. </div>
 
