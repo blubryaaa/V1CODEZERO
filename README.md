@@ -216,13 +216,13 @@ Zero Two supports multiple prefixes:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="center" height="auto" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydGFzYncxMjB2dHJzcnprd2ZwM2d5ejB0bnk5b200b3Y2YzU1bmI1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5VdlOIfQkEQe8x8QL/giphy.gif">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <table>
 <tr>
 <h1 align="center" width="20%">
-
-<img align="center" height="auto" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydGFzYncxMjB2dHJzcnprd2ZwM2d5ejB0bnk5b200b3Y2YzU1bmI1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5VdlOIfQkEQe8x8QL/giphy.gif">
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **💬 Community**
 
